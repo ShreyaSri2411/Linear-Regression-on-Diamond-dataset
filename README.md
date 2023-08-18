@@ -1,1 +1,1 @@
-# Linear-Regression-on-Diamond-dataset
+# Simple Linear-Regression-on-Diamond-dataset
